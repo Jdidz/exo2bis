@@ -2,4 +2,4 @@ steak
 salade
 tomate
 cornichon
-fromage
+fromages
