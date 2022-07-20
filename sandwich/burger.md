@@ -1,5 +1,5 @@
 steak
-salade
+salades
 tomates
 cornichon
 fromages
